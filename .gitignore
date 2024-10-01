@@ -1,0 +1,5 @@
+# Игнорирование папки node_modules
+node_modules/
+
+# Игнорирование папки build
+build/
